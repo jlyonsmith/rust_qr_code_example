@@ -1,6 +1,6 @@
 # QR Code Rust Example
 
-This is an example of how to decode and encode QR codes using the currently available Rust crates. It's a good idea to read [How QR codes work](See https://www.thonky.com/qr-code-tutorial/) for some background.  Also, this YouTube video on [How QR Codes Are Built](https://www.youtube.com/watch?v=142TGhaTMtI) is the best I have found.
+This is an example of how to decode and encode QR codes using the currently available Rust crates. It's a good idea to read [How QR codes work](https://www.thonky.com/qr-code-tutorial/) for some background.  Also, this YouTube video on [How QR Codes Are Built](https://www.youtube.com/watch?v=142TGhaTMtI) is the best I have found.
 
 The app uses the [image](https://docs.rs/image/latest/image/) to read and write image files.
 
